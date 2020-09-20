@@ -2,4 +2,12 @@ for i in range(1,13):
   for j in range(1,13):
     print(i*j, end="\t")
   print('')
-print("My first changes from remote repository")
+
+  #another multiplication table, but bigger
+  
+  for i in range(1,101):
+  for j in range(1,101):
+    print(i*j, end="\t")
+  print('')
+
+
